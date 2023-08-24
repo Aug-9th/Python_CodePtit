@@ -1,0 +1,1 @@
+{"name":"Local: tong_uoc_so","url":"d:\\CodePTIT\\Python\\tong_uoc_so.py","tests":[{"id":1692842873250,"input":"5 \n7\n9 \n10 \n13 \n100","output":"47"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\tong_uoc_so.py","group":"local","local":true}

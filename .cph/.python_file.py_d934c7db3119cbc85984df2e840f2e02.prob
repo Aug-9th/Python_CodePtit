@@ -1,0 +1,1 @@
+{"name":"Local: python_file","url":"d:\\CodePTIT\\Python\\python_file.py","tests":[{"id":1692756470969,"input":"abc.py","output":"yes"},{"id":1692756475415,"input":"abc.bin","output":"no"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\python_file.py","group":"local","local":true}

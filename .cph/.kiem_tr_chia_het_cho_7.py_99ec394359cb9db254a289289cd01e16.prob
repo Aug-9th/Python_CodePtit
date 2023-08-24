@@ -1,0 +1,1 @@
+{"name":"Local: kiem_tr_chia_het_cho_7","url":"d:\\CodePTIT\\Python\\kiem_tr_chia_het_cho_7.py","tests":[{"id":1692756903247,"input":"5\n1\n2\n3\n4\n999999","output":"77\n77\n9447438\n77\n999999"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\kiem_tr_chia_het_cho_7.py","group":"local","local":true}

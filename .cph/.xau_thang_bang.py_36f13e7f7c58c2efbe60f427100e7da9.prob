@@ -1,0 +1,1 @@
+{"name":"Local: xau_thang_bang","url":"d:\\CodePTIT\\Python\\xau_thang_bang.py","tests":[{"id":1692841881806,"input":"2\nacxz\nbcxz","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\xau_thang_bang.py","group":"local","local":true}

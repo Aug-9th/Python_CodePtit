@@ -1,0 +1,1 @@
+{"name":"Local: con_so_duyen_no","url":"d:\\CodePTIT\\Python\\con_so_duyen_no.py","tests":[{"id":1692844035697,"input":"2\n12345\n123451","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\con_so_duyen_no.py","group":"local","local":true}

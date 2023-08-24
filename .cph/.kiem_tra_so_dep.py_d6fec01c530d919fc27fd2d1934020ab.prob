@@ -1,0 +1,1 @@
+{"name":"Local: kiem_tra_so_dep","url":"d:\\CodePTIT\\Python\\kiem_tra_so_dep.py","tests":[{"id":1692756982623,"input":"3\n12121212\n343433\n78789989","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\kiem_tra_so_dep.py","group":"local","local":true}

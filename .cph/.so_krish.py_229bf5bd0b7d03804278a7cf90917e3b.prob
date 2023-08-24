@@ -1,0 +1,1 @@
+{"name":"Local: so_krish","url":"d:\\CodePTIT\\Python\\so_krish.py","tests":[{"id":1692844228564,"input":"2\n145\n235","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodePTIT\\Python\\so_krish.py","group":"local","local":true}
